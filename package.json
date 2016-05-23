@@ -1,0 +1,15 @@
+{
+  "name": "spsp",
+  "version": "0.0.0",
+  "description": "SPSP client for browsers/Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payments",
+    "simple"
+  ],
+  "author": "Interledger Team <info@interledger.org>",
+  "license": "ISC"
+}
