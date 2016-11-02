@@ -11,5 +11,5 @@
     "simple"
   ],
   "author": "Interledger Team <info@interledger.org>",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
